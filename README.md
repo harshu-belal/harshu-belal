@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**harshu-belal/harshu-belal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Harshit 👋
 
-Here are some ideas to get you started:
+🎓 BTech CSE (AI/ML) Student  
+💻 Learning DSA with C++  
+🚀 Interested in Software Development & Machine Learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- C++
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+- HTML,CSS,Javascript
+
+### 📌 Currently Learning
+- DSA (Arrays, Linked List, Recursion)
+- Object-Oriented Programming
+
+### 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/harshit-belal-241a78339/
