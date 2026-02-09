@@ -21,3 +21,4 @@
 
 ### 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/harshit-belal-241a78339/
+- Portfolio: https://harshitbelal.netlify.app/
