@@ -14,8 +14,10 @@
 - HTML, CSS, Javascript
 
 ### 📌 Currently Learning
-- DSA (Arrays, Linked List, Recursion)
-- Object-Oriented Programming
+- DSA (Arrays, Linked Lists, Recursion)
+- Object-Oriented Programming (OOP)
+- Basics of Machine Learning
+
 
 ### 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/harshit-belal-241a78339/
