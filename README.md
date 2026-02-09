@@ -11,7 +11,7 @@
 - Python
 - Data Structures & Algorithms
 - Git & GitHub
-- HTML,CSS,Javascript
+- HTML, CSS, Javascript
 
 ### 📌 Currently Learning
 - DSA (Arrays, Linked List, Recursion)
