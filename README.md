@@ -40,11 +40,7 @@ Structured repository of data structures and algorithms implemented in C++ for i
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=harshu-belal&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshu-belal&layout=compact&theme=tokyonight" />
-</p>
+## 📈 Currently Working On
+- 📘 Strengthening DSA in C++
+- 🚀 Building real-world projects
+- 🌱 Improving problem-solving skills
