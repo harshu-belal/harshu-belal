@@ -7,7 +7,7 @@
 
 ## 🌱 About Me
 - 🎓 First-year B.Tech CSE (AI/ML) student  
-- 💻 Focused on Data Structures & Algorithms in C++  
+- 💻 Focused on Data Structures & Algorithms in C++ & Python
 - 🚀 Passionate about building real-world tech solutions  
 - 📚 Exploring software development & machine learning  
 
@@ -29,8 +29,8 @@ Responsive link-in-bio web application built during a hackathon using HTML, CSS,
 A system designed to improve emergency response and disaster awareness.  
 Focuses on structured problem-solving and real-world application development.
 
-### 📘 DSA in C++
-Structured repository of data structures and algorithms implemented in C++ for interview preparation.
+### 📘 DSA in Pythoon
+Structured repository of data structures and algorithms implemented in Python for interview preparation.
 
 ---
 
