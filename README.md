@@ -15,7 +15,7 @@
 
 ## 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,github,vscode" />
 </p>
 
 ---
@@ -29,13 +29,13 @@ Responsive link-in-bio web application built during a hackathon using HTML, CSS,
 A system designed to improve emergency response and disaster awareness.  
 Focuses on structured problem-solving and real-world application development.
 
-### 📘 DSA in Pythoon
-Structured repository of data structures and algorithms implemented in Python for interview preparation.
+### 📘 DSA in CPP
+Structured repository of data structures and algorithms implemented in CPP for interview preparation.
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/harshit-belal-241a78339/
+- 💼 LinkedIn: https://www.linkedin.com/in/harshit-belal/
 - 🌐 Portfolio: https://harshitbelal.netlify.app/
 
 ---
